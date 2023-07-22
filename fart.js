@@ -31,4 +31,4 @@ switch (fard) {
   case 7:
     console.log("whar momr");
     break;
-}
+};
