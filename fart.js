@@ -1,4 +1,4 @@
-let fard = Math.random() * 7
+var fard = Math.random() * 7
 switch(fard) {
 case(0) :
     console.log('the fog is getting closer');
